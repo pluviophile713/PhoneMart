@@ -1,7 +1,7 @@
 # PhoneMart
 
 # EDIT
-      GIT TUT.
+      PhoneMart Application.
 # SOMETHING
 
 ## Admin Phone Curd
